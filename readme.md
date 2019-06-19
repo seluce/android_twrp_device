@@ -9,7 +9,7 @@ repo init -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.
 
 repo sync -c
 
-git clone https://github.com/seluce/android_twrp_device device/CUBOT/NOTE_S -b note_s
+git clone https://github.com/seluce/android_twrp_device device/CUBOT/NOTE_S -b note-s
 
 . build/envsetup.sh
 
