@@ -20,5 +20,4 @@ mka recoveryimage
 
 - full stable recovery twrp image (3.18.35)
 
-Full working touch sreen in twrp 
-Kernel patching was done following the tutorial from SachinBorkar by seluce
+Full working touch sreen in twrp! Kernel patching was done following the tutorial from SachinBorkar by seluce
