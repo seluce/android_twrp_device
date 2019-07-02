@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/CUBOT/NOTE_PLUS/
+LOCAL_PATH := device/CUBOT/X18/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_NOTE_PLUS.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_X18.mk

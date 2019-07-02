@@ -1,1 +1,1 @@
-add_lunch_combo omni_NOTE_PLUS-eng
+add_lunch_combo omni_X18-eng
