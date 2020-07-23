@@ -1,4 +1,4 @@
-TWRP Device Tree for Cubot Note S
+TWRP Device Tree for Cubot Rainbow
 ===========
 Unoffical Build for MT6580 TWRP 
 ------------------
@@ -9,11 +9,11 @@ repo init -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.
 
 repo sync -c
 
-git clone https://github.com/seluce/android_twrp_device device/CUBOT/NOTE_S -b note-s
+git clone https://github.com/seluce/android_twrp_device device/CUBOT/Rainbow -b rainbow
 
 . build/envsetup.sh
 
-lunch omni_NOTE_S-eng
+lunch omni_Rainbow-eng
 
 mka recoveryimage
 ```

@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter NOTE_S,$(TARGET_DEVICE)),)
+ifneq ($(filter Rainbow,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/CUBOT/NOTE_S/
+LOCAL_PATH := device/CUBOT/Rainbow/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 

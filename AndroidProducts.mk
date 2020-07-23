@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/CUBOT/NOTE_S/
+LOCAL_PATH := device/CUBOT/Rainbow/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_NOTE_S.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_Rainbow.mk

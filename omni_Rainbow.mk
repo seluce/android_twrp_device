@@ -15,8 +15,8 @@
 #
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
-PRODUCT_DEVICE := NOTE_S
-PRODUCT_NAME := omni_NOTE_S
+PRODUCT_DEVICE := Rainbow
+PRODUCT_NAME := omni_Rainbow
 PRODUCT_BRAND := CUBOT
-PRODUCT_MODEL := CUBOT NOTE S
+PRODUCT_MODEL := CUBOT Rainbow
 PRODUCT_MANUFACTURER := CUBOT
